@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_page_news_rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FD96A2"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/fragment_page_news_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dip"
+        android:text="Placeholder for a recyclerview that would show news feed. "
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
